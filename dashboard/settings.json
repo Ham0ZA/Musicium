@@ -17,7 +17,7 @@
             "port": 443
         },
         "callback": "http://your-domain.com/callback",
-        "clientID": "",
-        "secret": ""
+        "clientID": "968477661439598602",
+        "secret": "M_C_qk0pvo-vtEY8FdrrwqKMscbyuJbN"
     }
   }
