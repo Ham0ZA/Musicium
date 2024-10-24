@@ -1,4 +1,3 @@
-console.log(`Welcome to SERVICE HANDLER /--/ By https://milrato.eu /--/ Discord: Tomato#6966`.yellow);
 const PlayerMap = new Map();
 const playerintervals = new Map();
 const config = require(`../botconfig/config.json`);
@@ -1801,15 +1800,6 @@ module.exports = (client) => {
     };
   }
 };
-/**
- * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
- * @INFO
- * Work for Milrato Development | https://milrato.eu
- * @INFO
- * Please mention Him / Milrato Development, when using this Code!
- * @INFO
- */
 function escapeRegex(str) {
   try {
     return str.replace(/[.*+?^${}()|[\]\\]/g, `\\$&`);
